@@ -30,7 +30,7 @@
 | ![Before](https://s1.img-e.com/20260515/6a05faa71c74b.png) | ![After](https://s1.img-e.com/20260515/6a05f84100bae.png) |
 
 ### 安装使用
-将 `.jsx` 文件丢进 AE 安装目录的 **Support Files/Scripts/ScriptUI Panels** 文件夹，重启 AE 后在顶部 **窗口 (Window)** 菜单底部打开即可。
+将 .jsx 文件放置于 AE 安装目录的 Support Files/Scripts/ScriptUI Panels 文件夹内。重启 AE 后，在“窗口”菜单底部即可找到并打开。
 
 ---
 
@@ -55,9 +55,7 @@ This script solves the efficiency bottleneck caused by fragmented layers in comp
 | ![Before](https://s1.img-e.com/20260515/6a05faa71c74b.png) | ![After](https://s1.img-e.com/20260515/6a05f84100bae.png) |
 
 ### Installation
-Place the `.jsx` file into the After Effects installation directory:  
-`Support Files/Scripts/ScriptUI Panels`.  
-After restarting AE, you can find it at the bottom of the **Window** menu.
+Place the .jsx file into the Support Files/Scripts/ScriptUI Panels folder within your After Effects installation directory. After restarting AE, you can find the script at the bottom of the "Window" menu.
 
 ---
 
